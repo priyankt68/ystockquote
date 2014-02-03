@@ -16,9 +16,9 @@ Requirements
 
   * Python 2.7/3.3+
 
-~~~~~~~
+~~~~~~~~
 Install
-~~~~~~~
+~~~~~~~~
 
 `ytockquote` can be installed from `PyPI <https://pypi.python.org/pypi/ystockquote>`_ with `pip <http://www.pip-installer.org/>`_::
 
